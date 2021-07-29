@@ -1,6 +1,4 @@
 
-
-# emirhancoskun
 ### Hi!, I'am Emirhan - aka [Mendivaq][website] 👋
 
 
