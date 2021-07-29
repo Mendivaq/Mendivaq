@@ -1,5 +1,5 @@
 
-### Hi!, I'am Emirhan - aka [Mendivaq][website] 👋
+# Hi!, I'am Emirhan - aka [Mendivaq][website] 👋
 
 
 
@@ -12,7 +12,7 @@
 - ⚡ I love hanging out on my own.
 
 
-### Contact Me!:
+### Contact Me!
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
